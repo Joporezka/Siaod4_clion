@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Clion/Siaod4_clion/Header.h
+iostream
+-
+vector
+-
+
+D:/Clion/Siaod4_clion/functions.cpp
+Header.h
+D:/Clion/Siaod4_clion/Header.h
+iostream
+-
+vector
+-
+
