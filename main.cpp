@@ -49,6 +49,10 @@ int main()
     vector<regRow> regV;
     addRowV(regV, n);
     printTableV(regV,n);
+    insertV(regV,n);
+    printTableV(regV,n);
+    deleteIDV(regV,n);
+    printTableV(regV,n);
 
     return 0;
 }

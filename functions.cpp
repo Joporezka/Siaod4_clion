@@ -186,6 +186,7 @@ void deleteIDV(vector<regRow> &arr, int &n) {
         if (arr[i].id == id) {
             n--;
             arr.erase(arr.begin() + i);
+            i--;
         }
     }
 }
