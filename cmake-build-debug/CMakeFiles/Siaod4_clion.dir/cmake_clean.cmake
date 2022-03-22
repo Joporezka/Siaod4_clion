@@ -1,10 +1,10 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Siaod4_clion.dir/functions.cpp.obj"
-  "CMakeFiles/Siaod4_clion.dir/main.cpp.obj"
-  "Siaod4_clion.exe"
-  "Siaod4_clion.exe.manifest"
+  "CMakeFiles/Siaod4_clion.dir/functions.cpp.o"
+  "CMakeFiles/Siaod4_clion.dir/functions.cpp.o.d"
+  "CMakeFiles/Siaod4_clion.dir/main.cpp.o"
+  "CMakeFiles/Siaod4_clion.dir/main.cpp.o.d"
+  "Siaod4_clion"
   "Siaod4_clion.pdb"
-  "libSiaod4_clion.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.
